@@ -4,3 +4,7 @@ h1{
 span{
     background: fixed;
 }
+div h2{
+    padding: 2px;
+    margin: 3px;
+}
